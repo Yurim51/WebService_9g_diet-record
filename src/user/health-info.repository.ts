@@ -13,10 +13,10 @@ export class HealthInfoRepository{
         }
     }
 
-    // find healthInfo by userId and most recent date
-    public async findHealthInfoByUserId(userId: string, manager: EntityManager): Promise<HealthInfo>{
+    // find healthInfo by user.healthInfoId
+    public async findHealthInfoByHealthInfoId(healthInfoId: string, manager: EntityManager): Promise<HealthInfo>{
         try{
-            return await manager.createQueryBuilder(HealthInfo, "health_info").where("user_id = :userId", {userId}).getOne();
+            return await manager.createQueryBuilder(HealthInfo, "health_info").where("health_info = :healthInfoId", {healthInfoId}).getOne();
         }catch(err){
             throw err;
         }

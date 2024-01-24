@@ -4,6 +4,7 @@ import { typeORMConfig } from './conifg/database/typorm.config.mj';
 import { AuthModule } from './auth/auth.module';
 import { PassportModule } from '@nestjs/passport';
 import { UserModule } from './user/user.module';
+import { ImageModule } from './image/image.module';
 
 @Module({
   imports: [
@@ -11,6 +12,7 @@ import { UserModule } from './user/user.module';
     PassportModule.register({ session: true }),
     AuthModule,
     UserModule,
+    ImageModule,
   ],
 })
 export class AppModule {}
