@@ -15,28 +15,25 @@
 ## 1. 프로젝트 소개
 
 ### 기술 스택 <br/>
- - AI 
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <br/>
+ - AI
+   - Python
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <br/>
   
  - Front-end <br/>
-  typescript
-   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/> <br/>
+   - Typescript
+     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+   - React
+     <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/> <br/>
 
  - Back-end <br/>
    - Node.js
      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
    - Nest.js
-   - typescript
-   - postgresql
+   - Typescript
+   - PostgreSQL
+   - Swagger
+   - OpenAI
 
-### 라이브러리 <br/>
- - Front-end <br/>
-   - redux
-   - module css
-
- - Back-end <br/>
-   - typeorm
 
 <br/>
 ### AI 모델 학습 데이터셋
@@ -53,7 +50,7 @@
 <br/><br/>
 ## 3. 프로젝트 기능 설명
 
-### 주요 기능 (주된 활용성) 및 서브 기능
+### 주요 기능 및 서브 기능
 
 **1. 회원가입 & 로그인**<br/>
 - 이메일, 닉네임 중복 확인<br/>
@@ -75,16 +72,13 @@
     - 등록된 음식 이미지를 분석하여 얻은 음식 종류 데이터 제공
     - 여러 음식이 보이는 사진을 등록하면, 이를 분석하여 개별 음식 사진으로 등록
     - 분석된 음식명을 원본 이미지 위에 태그로 표시 </br></br>
-- 음식명 검색 및 등록 기능 (사진 없음)
-    - 식품의약품안전처 식품영양성분 데이터베이스 활용
-    - https://various.foodsafetykorea.go.kr/nutrient/  </br></br>
 - 음식 종류 별 칼로리와 영양성분 데이터 제공
   - 식품의약품안전처 식품영양성분 데이터베이스 활용
   - https://various.foodsafetykorea.go.kr/nutrient/ </br></br>
 
 **6. AI영양사 페이지**<br/>
 - 채팅형 레이아웃
-- open ai api를 활용한 사용자 맞춤 식단 분석 데이터 제공 및 저장 
+- Open AI API를 활용한 사용자 맞춤 식단 분석 데이터 제공 및 저장 
   - 식단 추천
   - 선택한 식단 평가
   - 목표 추천
