@@ -1,6 +1,6 @@
 # Gugram
   구그램은 AI를 활용하여 음식 사진을 인식하여 식단을 기록 및 분석해주는 서비스입니다.
-
+<br/><br/>
 
 ## 프로젝트 구성 안내
 ### **목차**<br/>
@@ -24,30 +24,24 @@
 
  - Back-end <br/>
    - Node.js
+     <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
    - Nest.js
    - typescript
    - postgresql
-   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
 
 ### 라이브러리 <br/>
- - 데이터분석 <br/>
-   <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-   <img src="https://img.shields.io/badge/matplotlib-0ABF53?style=flat-square&logo=multer&logoColor=white"/> <br/>
-
  - Front-end <br/>
    - redux
    - module css
-   - 
 
  - Back-end <br/>
    - typeorm
-   <img src="https://img.shields.io/badge/multer-FF9E0F?style=flat-square&logo=multer&logoColor=white"/>
-   <img src="https://img.shields.io/badge/amazons3-569A31?style=flat-square&logo=amazons3&logoColor=white"/> <br/>
-  
+
+<br/>
 ### AI 모델 학습 데이터셋
  AI 허브의 음식 이미지 데이터셋을 가져와 이미지 인식 모델 학습에 활용하였습니다.
  https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=&topMenu=&aihubDataSe=data&dataSetSn=74<br/>
-
+<br/><br/>
 
 ## 2. 프로젝트 목표
 
@@ -55,7 +49,7 @@
 
   ##### 2) Open AI API를 활용한 식단 분석 서비스 구현
 
-
+<br/><br/>
 ## 3. 프로젝트 기능 설명
 
 ### 주요 기능 (주된 활용성) 및 서브 기능
@@ -94,21 +88,18 @@
   - 선택한 식단 평가
   - 목표 추천 <br/><br/>
 
-
-
 ### 프로젝트만의 차별점, 기대 효과
 - AI를 활용한 음식 이미지 인식
 - Open AI API를 이용한 사용자 맞춤 식단 분석 서비스 제공
 
-
+<br/><br/>
 ## 4. 프로젝트 구성도
 ### 메인페이지
 ### 회원가입 & 로그인 & 프로필
 ### 습관페이지
 ### 캘린더 / 커뮤니티
 
-
-
+<br/><br/>
 ## 5. 프로젝트 팀 구성 및 역할
 프론트엔드 5명 / 백엔드 3명 / AI 1명
 
@@ -129,7 +120,7 @@
 3. AI
 - 기획 단계: 학습시킬 데이터 수집 및 학습 모델 선정
 - 학습 단계: 데이터 기반 이미지 학습, 하이퍼파라미터 조정
-- 수정 단계: 피드백 반영해서 수정, 학습 성능 체크 <br/>
+- 수정 단계: 피드백 반영해서 수정, 학습 성능 체크 <br/><br/>
 
 ## 6. 버전
   - 0.0.1
