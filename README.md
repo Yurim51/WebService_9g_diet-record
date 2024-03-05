@@ -1,54 +1,31 @@
 # Gugram
-  구그램은 AI를 활용하여 음식 사진을 인식하여 식단을 기록 및 분석해주는 서비스입니다.
+  AI를 활용하여 음식 사진을 인식하고 식단을 기록 및 분석해주는 서비스
+![project3_ggu](https://github.com/Yurim51/WebService_9g_diet-record/assets/90613423/a115829f-e397-49cc-a7bb-8ce4a6d3bdd1)
 
 <br/><br/>
 ## 프로젝트 구성 안내
 ### **목차**<br/>
-[1. 프로젝트 소개](#1-프로젝트-소개)<br/>
-[2. 프로젝트 목표](#2-프로젝트-목표)<br/>
-[3. 프로젝트 기능 설명](#3-프로젝트-기능-설명)<br/>
+[1. 프로젝트 목표](#1-프로젝트-목표)<br/>
+[2. 프로젝트 기능 설명](#2-프로젝트-기능-설명)<br/>
+[3. 프로젝트 기술 스택](#3-프로젝트-기술-스택)<br/>
 [4. 프로젝트 구성도](#4-프로젝트-구성도)<br/>
 [5. 프로젝트 팀 구성 및 역할](#5-프로젝트-팀-구성-및-역할)<br/>
 [6. 버전](#6-버전)
 
 <br/><br/>
-## 1. 프로젝트 소개
-
-### 기술 스택 <br/>
- - AI
-   - Python
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <br/>
-  
- - Front-end <br/>
-   - Typescript
-     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-   - React
-     <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/> <br/>
-
- - Back-end <br/>
-   - Node.js
-     <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
-   - Nest.js
-   - Typescript
-   - PostgreSQL
-   - Swagger
-   - OpenAI
-
-
-<br/>
-### AI 모델 학습 데이터셋
- AI 허브의 음식 이미지 데이터셋을 가져와 이미지 인식 모델 학습에 활용하였습니다.
- https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=&topMenu=&aihubDataSe=data&dataSetSn=74<br/>
-
-<br/><br/>
-## 2. 프로젝트 목표
+## 1. 프로젝트 목표
 
   ##### 1) AI를 활용한 200가지 음식 이미지 인식 및 기록 기능
 
   ##### 2) Open AI API를 활용한 식단 분석 서비스 구현
-
 <br/><br/>
-## 3. 프로젝트 기능 설명
+#### **Gugram**만의 차별점 및 기대 효과
+- AI를 활용한 음식 이미지 인식
+- Open AI API를 이용한 사용자 맞춤 식단 분석 서비스 제공
+
+  
+<br/><br/>
+## 2. 프로젝트 기능 설명
 
 ### 주요 기능 및 서브 기능
 
@@ -83,10 +60,32 @@
   - 선택한 식단 평가
   - 목표 추천
 
+
 <br/><br/>
-### 프로젝트만의 차별점, 기대 효과
-- AI를 활용한 음식 이미지 인식
-- Open AI API를 이용한 사용자 맞춤 식단 분석 서비스 제공
+## 3. 프로젝트 기술 스택
+ - AI
+   - Python
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <br/>
+  
+ - Front-end <br/>
+   - Typescript
+     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+   - React
+     <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/> <br/>
+
+ - Back-end <br/>
+   - Node.js
+     <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
+   - Nest.js
+   - Typescript
+   - PostgreSQL
+   - Swagger
+   - OpenAI
+
+
+#### AI 모델 학습 데이터셋
+ AI 허브의 음식 이미지 데이터셋을 가져와 이미지 인식 모델 학습에 활용
+ https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=&topMenu=&aihubDataSe=data&dataSetSn=74<br/>
 
 <br/><br/>
 ## 4. 프로젝트 구성도
