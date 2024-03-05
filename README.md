@@ -90,10 +90,17 @@
 <br/><br/>
 ## 4. 프로젝트 구성도
 ![project3_ggu_structure](https://github.com/Yurim51/WebService_9g_diet-record/assets/90613423/d66687ef-d66f-4b33-a3ee-eb25db0c22fe)
-### 메인페이지
 ### 회원가입 & 로그인 & 프로필
-### 습관페이지
-### 캘린더 / 커뮤니티
+![project3_ggu_login](https://github.com/Yurim51/WebService_9g_diet-record/assets/90613423/a0c6f9a4-d0b5-4763-845b-e5641c5e66b5)
+### 메인페이지
+![project3_ggu_home](https://github.com/Yurim51/WebService_9g_diet-record/assets/90613423/461a0bb4-9501-4775-a517-3781bbf60a2c)
+### 식단 기록 페이지
+![project3_ggu_add](https://github.com/Yurim51/WebService_9g_diet-record/assets/90613423/b8fe599d-cea2-465e-92e7-e3214f19e005)
+![project3_ggu_ai](https://github.com/Yurim51/WebService_9g_diet-record/assets/90613423/5fa5a3ca-07a6-4b59-8c5e-45af79d81f84)
+### 식단 캘린더 / 피드백
+![project3_ggu_calender](https://github.com/Yurim51/WebService_9g_diet-record/assets/90613423/d7747a92-425c-4aad-8a7e-49eaa55c8269)
+![project3_ggu_feedback](https://github.com/Yurim51/WebService_9g_diet-record/assets/90613423/ca731877-5303-4b8d-9af7-05c9c849b6e6)
+
 
 <br/><br/>
 ## 5. 프로젝트 팀 구성 및 역할
