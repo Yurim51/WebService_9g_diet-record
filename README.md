@@ -1,5 +1,5 @@
 # Gugram
-  AI를 활용하여 음식 사진을 인식하고 식단을 기록 및 분석해주는 서비스
+  AI를 활용해 음식 사진을 인식하고 식단을 기록 및 분석해주는 서비스
 ![project3_ggu](https://github.com/Yurim51/WebService_9g_diet-record/assets/90613423/a115829f-e397-49cc-a7bb-8ce4a6d3bdd1)
 
 <br/><br/>
@@ -89,6 +89,7 @@
 
 <br/><br/>
 ## 4. 프로젝트 구성도
+![project3_ggu_structure](https://github.com/Yurim51/WebService_9g_diet-record/assets/90613423/d66687ef-d66f-4b33-a3ee-eb25db0c22fe)
 ### 메인페이지
 ### 회원가입 & 로그인 & 프로필
 ### 습관페이지
