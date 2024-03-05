@@ -18,9 +18,8 @@
   ##### 1) AI를 활용한 200가지 음식 이미지 인식 및 기록 기능
 
   ##### 2) Open AI API를 활용한 식단 분석 서비스 구현
-
-<br/><br/>
-#### **Gugram**만의 차별점 및 기대 효과
+<br></br>
+#### Gugram만의 차별점 및 기대 효과
 - AI를 활용한 음식 이미지 인식
 - Open AI API를 이용한 사용자 맞춤 식단 분석 서비스 제공
 
@@ -52,7 +51,7 @@
     - 분석된 음식명을 원본 이미지 위에 태그로 표시 </br></br>
 - 음식 종류 별 칼로리와 영양성분 데이터 제공
   - 식품의약품안전처 식품영양성분 데이터베이스 활용
-  - https://various.foodsafetykorea.go.kr/nutrient/ </br></br>
+  - https://various.foodsafetykorea.go.kr/nutrient/ </br>
 
 **6. AI영양사 페이지**<br/>
 - 채팅형 레이아웃
@@ -81,25 +80,25 @@
    - Swagger
    - OpenAI API
 
-<br/>
+<br></br>
 #### AI 모델 학습 데이터셋
  AI 허브의 음식 이미지 데이터셋을 가져와 이미지 인식 모델 학습에 활용<br/>
  https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=&topMenu=&aihubDataSe=data&dataSetSn=74<br/>
 
 <br/><br/>
 ## 4. 프로젝트 구성도
-![project3_ggu_structure](https://github.com/Yurim51/WebService_9g_diet-record/assets/90613423/d66687ef-d66f-4b33-a3ee-eb25db0c22fe)
-### 회원가입 & 로그인 & 프로필
+![project3_ggu_structure](https://github.com/Yurim51/WebService_9g_diet-record/assets/90613423/d66687ef-d66f-4b33-a3ee-eb25db0c22fe)<br/>
+### 회원가입 & 로그인
 ![project3_ggu_login](https://github.com/Yurim51/WebService_9g_diet-record/assets/90613423/a0c6f9a4-d0b5-4763-845b-e5641c5e66b5)
-![project3_ggu_question](https://github.com/Yurim51/WebService_9g_diet-record/assets/90613423/1c5744b7-3e6e-4784-929c-e366cad8ff35)
+![project3_ggu_question](https://github.com/Yurim51/WebService_9g_diet-record/assets/90613423/1c5744b7-3e6e-4784-929c-e366cad8ff35)<br/>
 ### 메인페이지
-![project3_ggu_home](https://github.com/Yurim51/WebService_9g_diet-record/assets/90613423/461a0bb4-9501-4775-a517-3781bbf60a2c)
+![project3_ggu_home](https://github.com/Yurim51/WebService_9g_diet-record/assets/90613423/461a0bb4-9501-4775-a517-3781bbf60a2c)<br/>
 ### 식단 기록 페이지
 ![project3_ggu_add](https://github.com/Yurim51/WebService_9g_diet-record/assets/90613423/b8fe599d-cea2-465e-92e7-e3214f19e005)
-![project3_ggu_ai](https://github.com/Yurim51/WebService_9g_diet-record/assets/90613423/5fa5a3ca-07a6-4b59-8c5e-45af79d81f84)
+![project3_ggu_ai](https://github.com/Yurim51/WebService_9g_diet-record/assets/90613423/5fa5a3ca-07a6-4b59-8c5e-45af79d81f84)<br/>
 ### 식단 캘린더 / 피드백
 ![project3_ggu_calender](https://github.com/Yurim51/WebService_9g_diet-record/assets/90613423/d7747a92-425c-4aad-8a7e-49eaa55c8269)
-![project3_ggu_feedback](https://github.com/Yurim51/WebService_9g_diet-record/assets/90613423/ca731877-5303-4b8d-9af7-05c9c849b6e6)
+![project3_ggu_feedback](https://github.com/Yurim51/WebService_9g_diet-record/assets/90613423/ca731877-5303-4b8d-9af7-05c9c849b6e6)<br/>
 
 
 <br/><br/>
