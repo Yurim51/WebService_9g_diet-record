@@ -63,6 +63,7 @@
 
 <br/><br/>
 ## 3. 프로젝트 기술 스택
+![project1_ajaj_stack](https://github.com/Yurim51/WebService_9g_diet-record/assets/90613423/204a7681-782c-42a4-977e-f9237e7b2d5d)
  - AI
    - Python
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <br/>
@@ -74,13 +75,10 @@
      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/> <br/>
 
  - Back-end <br/>
-   - Node.js
-     <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
    - Nest.js
-   - Typescript
    - PostgreSQL
    - Swagger
-   - OpenAI
+   - OpenAI API
 
 
 #### AI 모델 학습 데이터셋
